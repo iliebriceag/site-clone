@@ -1,0 +1,8 @@
+        /* training */
+        .card img {
+            padding: 5px;
+        }
+
+        .card .card-body .card-text img {
+            max-height: 25px;
+        }
